@@ -1,0 +1,12 @@
+H:\0. M256\Visual Basic\Projects in progress\VB Race Car Project\VB Race Car Project\bin\Debug\VB Race Car Project.exe.config
+H:\0. M256\Visual Basic\Projects in progress\VB Race Car Project\VB Race Car Project\bin\Debug\VB Race Car Project.exe
+H:\0. M256\Visual Basic\Projects in progress\VB Race Car Project\VB Race Car Project\bin\Debug\VB Race Car Project.pdb
+H:\0. M256\Visual Basic\Projects in progress\VB Race Car Project\VB Race Car Project\bin\Debug\VB Race Car Project.xml
+H:\0. M256\Visual Basic\Projects in progress\VB Race Car Project\VB Race Car Project\obj\Debug\VB Race Car Project.vbprojAssemblyReference.cache
+H:\0. M256\Visual Basic\Projects in progress\VB Race Car Project\VB Race Car Project\obj\Debug\VB_Race_Car_Project.Form1.resources
+H:\0. M256\Visual Basic\Projects in progress\VB Race Car Project\VB Race Car Project\obj\Debug\VB_Race_Car_Project.Resources.resources
+H:\0. M256\Visual Basic\Projects in progress\VB Race Car Project\VB Race Car Project\obj\Debug\VB Race Car Project.vbproj.GenerateResource.cache
+H:\0. M256\Visual Basic\Projects in progress\VB Race Car Project\VB Race Car Project\obj\Debug\VB Race Car Project.vbproj.CoreCompileInputs.cache
+H:\0. M256\Visual Basic\Projects in progress\VB Race Car Project\VB Race Car Project\obj\Debug\VB Race Car Project.exe
+H:\0. M256\Visual Basic\Projects in progress\VB Race Car Project\VB Race Car Project\obj\Debug\VB Race Car Project.xml
+H:\0. M256\Visual Basic\Projects in progress\VB Race Car Project\VB Race Car Project\obj\Debug\VB Race Car Project.pdb
